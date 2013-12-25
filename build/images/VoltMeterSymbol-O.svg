@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="102.753px" height="58.137px" viewBox="0 0 102.753 58.137" style="enable-background:new 0 0 102.753 58.137;"
+	 xml:space="preserve">
+<g id="Connector">
+	<circle style="fill:none;stroke:#000000;stroke-width:4;" cx="51.433" cy="29.068" r="27.068"/>
+	<line style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;" x1="100.792" y1="28.84" x2="78.957" y2="28.84"/>
+	<line style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;" x1="23.937" y1="29.414" x2="2.101" y2="29.414"/>
+	<text transform="matrix(1 0 0 1 5.3164 22.6267)" style="font-family:'MyriadPro-Regular'; font-size:8.1886;">+</text>
+	<text transform="matrix(1 0 0 1 96.4565 22.9675)" style="font-family:'MyriadPro-Regular'; font-size:8.1886;">-</text>
+	<rect id="Plus" y="27.616" style="fill:none;" width="3.867" height="3.867"/>
+	<rect id="Minus" x="98.886" y="26.604" style="fill:none;" width="3.867" height="3.867"/>
+</g>
+<g id="V" style="display:none;">
+	
+		<text transform="matrix(1.5379 0 0 1 36.7861 40.7683)" style="display:inline;fill:#010101; font-family:'DroidSans'; font-size:33.2842;">V</text>
+</g>
+<g id="A" style="display:none;">
+	
+		<text transform="matrix(1.5379 0 0 1 36.7861 39.7683)" style="display:inline;fill:#010101; font-family:'DroidSans'; font-size:33.2842;">A</text>
+</g>
+<g>
+	<title>Layer 1</title>
+	<path id="text2161" d="M59.611,35.406v0.472h7.679l1.483-3.335h1.505l-2.889,7.05H54.917c1.977-2.608,3.471-5.236,4.483-7.884
+		c1.012-2.646,1.519-5.225,1.519-7.738c0-3.348-0.786-5.873-2.359-7.578c-1.571-1.704-3.905-2.555-7-2.555
+		c-3.111,0-5.454,0.846-7.025,2.538c-1.573,1.691-2.359,4.224-2.359,7.595c0,2.525,0.503,5.099,1.506,7.72
+		c1.005,2.624,2.503,5.257,4.495,7.902H35.681l-2.864-7.05h1.506l1.457,3.335h7.704v-0.472c-2.716-2.21-4.667-4.234-5.852-6.072
+		c-1.186-1.836-1.778-3.715-1.778-5.636c0-3.226,1.506-5.906,4.519-8.039c3.013-2.133,6.742-3.199,11.187-3.199
+		s8.169,1.069,11.175,3.208c3.004,2.139,4.506,4.815,4.506,8.029c0,1.909-0.589,3.776-1.765,5.601
+		C64.298,31.123,62.343,33.159,59.611,35.406L59.611,35.406z"/>
+</g>
+</svg>

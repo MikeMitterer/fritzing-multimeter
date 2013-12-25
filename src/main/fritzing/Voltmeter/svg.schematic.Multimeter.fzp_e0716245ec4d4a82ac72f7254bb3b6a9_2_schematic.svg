@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1.42712in" x="0px" version="1.0" y="0px" gorn="0"  height="0.807444in" viewBox="0 0 102.753 58.136" xmlns:xml="http://www.w3.org/XML/1998/namespace" style="enable-background:new 0 0 102.753 58.136;" id="Connector" xml:space="preserve">
+    <desc >
+        <referenceFile >VoltMeterSymbol.svg</referenceFile>
+    </desc>
+    <circle fill="none" cx="51.433"  cy="29.068" stroke="#000000" r="27.068" stroke-width="4"/>
+    <g  transform="matrix(1.5379 0 0 1 36.7852 43.7681)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  style="fill:#010101; font-family:Droid Sans; font-size:33.2842;">V</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <line  stroke="#000000" style="stroke-linecap:round;" y1="28.84" x1="100.792" y2="28.84" stroke-width="3" x2="78.956"/>
+    <line  stroke="#000000" style="stroke-linecap:round;" y1="29.414" x1="23.937" y2="29.414" stroke-width="3" x2="2.101"/>
+    <g  transform="matrix(1 0 0 1 5.3164 22.6265)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  style="font-family:Droid Sans; font-size:8.1886;">+</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1 0 0 1 96.4561 22.9673)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  style="font-family:Droid Sans; font-size:8.1886;">-</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <rect width="3.867" y="27.616" gorn="0.7"  height="3.867" style="fill:none;" id="connector3pin"/>
+    <rect width="3.867" x="98.886" y="26.604" gorn="0.8"  height="3.867" style="fill:none;" id="connector4pin"/>
+</svg>

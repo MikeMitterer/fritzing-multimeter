@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1.42712in" x="0px" version="1.0" y="0px"  height="0.807444in" viewBox="0 0 102.753 58.136" xmlns:xml="http://www.w3.org/XML/1998/namespace" style="enable-background:new 0 0 102.753 58.136;" xml:space="preserve">
+    <desc>
+        <referenceFile>Multimeter.fzp_93eca484f2a64e1884bcbe2fa33c9360_2_schematic.svg</referenceFile>
+    </desc>
+    <g gorn="0.0"  id="Connector">
+        <circle cx="51.433"  cy="29.068" style="fill:none;stroke:#000000;stroke-width:4;" r="27.068"/>
+        <line  style="stroke:#000000;stroke-width:3;stroke-linecap:round;" y1="28.84" x1="100.792" y2="28.84" x2="78.956"/>
+        <line  style="stroke:#000000;stroke-width:3;stroke-linecap:round;" y1="29.414" x1="23.937" y2="29.414" x2="2.101"/>
+        <g  transform="matrix(1 0 0 1 5.3164 22.6265)">
+            <text  style="font-family:'MyriadPro-Regular'; font-size:8.1886;">+</text>
+        </g>
+        <g  transform="matrix(1 0 0 1 96.4561 22.9673)">
+            <text  style="font-family:'MyriadPro-Regular'; font-size:8.1886;">-</text>
+        </g>
+        <rect width="3.867" y="27.616" gorn="0.0.5"  height="3.867" style="fill:none;" id="plus"/>
+        <rect width="3.867" x="98.886" y="26.604" gorn="0.0.6"  height="3.867" style="fill:none;" id="minus"/>
+    </g>
+    <g gorn="0.1"  style="display:none;" id="V">
+        <g  transform="matrix(1.5379 0 0 1 36.7852 40.7681)">
+            <text  style="display:inline;fill:#010101; font-family:'DroidSans'; font-size:33.2842;">V</text>
+        </g>
+    </g>
+    <g gorn="0.2"  id="A">
+        <g  transform="matrix(1.5379 0 0 1 36.7852 39.7681)">
+            <text  style="fill:#010101; font-family:'DroidSans'; font-size:33.2842;">A</text>
+        </g>
+    </g>
+    <g gorn="0.3"  style="display:none;" id="Ohm">
+        <g  transform="matrix(1.329 0 0 1 35.7852 40.3481)">
+            <text  style="display:inline; font-family:'ArialMT'; font-size:31.8047;">Î©</text>
+        </g>
+    </g>
+</svg>
