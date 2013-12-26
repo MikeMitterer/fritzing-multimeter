@@ -1,36 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<!DOCTYPE svg>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1.42712in" x="0px" version="1.0" y="0px"  height="0.807444in" viewBox="0 0 102.753 58.136" xmlns:xml="http://www.w3.org/XML/1998/namespace" style="enable-background:new 0 0 102.753 58.136;" xml:space="preserve">
-    <desc>
-        <referenceFile>Multimeter.fzp_93eca484f2a64e1884bcbe2fa33c9360_2_schematic.svg</referenceFile>
-    </desc>
-    <g gorn="0.0"  id="Connector">
-        <circle cx="51.433"  cy="29.068" style="fill:none;stroke:#000000;stroke-width:4;" r="27.068"/>
-        <line  style="stroke:#000000;stroke-width:3;stroke-linecap:round;" y1="28.84" x1="100.792" y2="28.84" x2="78.956"/>
-        <line  style="stroke:#000000;stroke-width:3;stroke-linecap:round;" y1="29.414" x1="23.937" y2="29.414" x2="2.101"/>
-        <g  transform="matrix(1 0 0 1 5.3164 22.6265)">
-            <text  style="font-family:'MyriadPro-Regular'; font-size:8.1886;">+</text>
-        </g>
-        <g  transform="matrix(1 0 0 1 96.4561 22.9673)">
-            <text  style="font-family:'MyriadPro-Regular'; font-size:8.1886;">-</text>
-        </g>
-        <rect width="3.867" y="27.616" gorn="0.0.5"  height="3.867" style="fill:none;" id="plus"/>
-        <rect width="3.867" x="98.886" y="26.604" gorn="0.0.6"  height="3.867" style="fill:none;" id="minus"/>
-    </g>
-    <g gorn="0.1"  style="display:none;" id="V">
-        <g  transform="matrix(1.5379 0 0 1 36.7852 40.7681)">
-            <text  style="display:inline;fill:#010101; font-family:'DroidSans'; font-size:33.2842;">V</text>
-        </g>
-    </g>
-    <g gorn="0.2"  id="A">
-        <g  transform="matrix(1.5379 0 0 1 36.7852 39.7681)">
-            <text  style="fill:#010101; font-family:'DroidSans'; font-size:33.2842;">A</text>
-        </g>
-    </g>
-    <g gorn="0.3"  style="display:none;" id="Ohm">
-        <g  transform="matrix(1.329 0 0 1 35.7852 40.3481)">
-            <text  style="display:inline; font-family:'ArialMT'; font-size:31.8047;">Î©</text>
-        </g>
-    </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="63.625px" height="42px" viewBox="-246.749 450.083 63.625 42" style="enable-background:new -246.749 450.083 63.625 42;"
+	 xml:space="preserve">
+<g id="Background" style="display:none;">
+	<rect x="-246.749" y="450.083" style="display:inline;fill:none;stroke:#7A7A7A;" width="63.625" height="42"/>
+</g>
+<g id="Schematic">
+	<g id="Connector">
+		<ellipse style="fill:none;stroke:#000000;stroke-width:2;" cx="-215.067" cy="471.539" rx="16.558" ry="16.874"/>
+		
+			<line style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;" x1="-183.869" y1="472.316" x2="-198.231" y2="472.316"/>
+		
+			<line style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;" x1="-231.885" y1="472.316" x2="-246.069" y2="472.316"/>
+		
+			<text transform="matrix(0.9164 0 0 1 -243.2734 467.2566)" style="display:none;enable-background:new    ; font-family:'MyriadPro-Regular'; font-size:5.4657;">+</text>
+		
+			<text transform="matrix(0.9164 0 0 1 -187.5234 467.4851)" style="display:none;enable-background:new    ; font-family:'MyriadPro-Regular'; font-size:5.4657;">-</text>
+		<rect id="plus" x="-246.901" y="471.026" style="fill:none;" width="1.622" height="2.582"/>
+		<rect id="minus" x="-184.904" y="471.026" style="fill:none;" width="1.833" height="2.582"/>
+	</g>
+	<g id="V" style="display:none;">
+		
+			<text transform="matrix(1.3185 0 0 1 -223.916 479.0496)" style="display:inline;fill:#010101; font-family:'DroidSans'; font-size:20.9182;">V</text>
+	</g>
+	<g id="A">
+		<text transform="matrix(1.5379 0 0 1 -226.3423 478.781)" style="fill:#010101; font-family:'DroidSans'; font-size:23.8004;">A</text>
+	</g>
+	<g style="display:none;">
+		<title>Layer 1</title>
+		<path id="text2161" style="display:inline;" d="M-209.947,475.54v0.281h4.574l0.883-1.986h0.897l-1.721,4.2h-7.43
+			c1.177-1.555,2.067-3.121,2.67-4.697c0.604-1.577,0.905-3.114,0.905-4.611c0-1.993-0.468-3.499-1.405-4.513
+			c-0.937-1.015-2.327-1.523-4.17-1.523c-1.853,0-3.248,0.504-4.186,1.512c-0.936,1.007-1.405,2.515-1.405,4.523
+			c0,1.505,0.3,3.038,0.897,4.6c0.598,1.562,1.491,3.131,2.678,4.708h-7.443l-1.707-4.2h0.897l0.868,1.986h4.59v-0.281
+			c-1.618-1.317-2.78-2.522-3.486-3.617c-0.707-1.095-1.06-2.214-1.06-3.358c0-1.922,0.897-3.518,2.691-4.789
+			c1.795-1.27,4.017-1.906,6.665-1.906c2.648,0,4.867,0.637,6.656,1.911c1.791,1.275,2.685,2.869,2.685,4.784
+			c0,1.138-0.349,2.25-1.051,3.336C-207.155,472.988-208.319,474.201-209.947,475.54L-209.947,475.54z"/>
+	</g>
+</g>
 </svg>

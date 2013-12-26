@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <module fritzingVersion="0.4.1b.07.17.4356" moduleId="e0716245ec4d4a82ac72f7254bb3b6a9">
- <version>1</version>
+ <version>2</version>
  <author>Mike Mitterer</author>
  <title>Voltmeter</title>
  <label>Voltmeter</label>
@@ -56,7 +56,7 @@ p, li { white-space: pre-wrap; }
      <p svgId="connector3pin" layer="breadboard" terminalId="connector3terminal"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector3pin" layer="schematic" terminalId="connector3terminal"/>
+     <p svgId="plus" layer="schematic" terminalId="connector3terminal"/>
     </schematicView>
     <pcbView>
      <p svgId="connector3pin" layer="copper0"/>
@@ -71,7 +71,7 @@ p, li { white-space: pre-wrap; }
      <p svgId="connector4pin" layer="breadboard" terminalId="connector4terminal"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector4pin" layer="schematic" terminalId="connector4terminal"/>
+     <p svgId="minus" layer="schematic" terminalId="connector4terminal"/>
     </schematicView>
     <pcbView>
      <p svgId="connector4pin" layer="copper0"/>
