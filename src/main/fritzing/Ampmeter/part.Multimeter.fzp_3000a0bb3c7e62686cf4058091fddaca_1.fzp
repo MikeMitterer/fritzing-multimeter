@@ -1,85 +1,90 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <module fritzingVersion="0.4.1b.07.17.4356" moduleId="3000a0bb3c7e62686cf4058091fddaca">
- <version>1</version>
- <author>Mike Mitterer</author>
- <title>Amperemeter</title>
- <label>Amperemeter</label>
- <date>Mi. Dez 25 2013</date>
- <tags>
-  <tag>Ampmeter</tag>
-  <tag>Amperemeter</tag>
-  <tag>Multimeter</tag>
-  <tag>Measurment</tag>
-  <tag>Ohms</tag>
-  <tag>Volt</tag>
- </tags>
- <properties>
-  <property name="family">Multimeter</property>
-  <property name="layer"></property>
-  <property name="measure">Ampere</property>
-  <property name="part number"></property>
- </properties>
- <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
-&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
-p, li { white-space: pre-wrap; }
-&lt;/style>&lt;/head>&lt;body style=" font-family:'Lucida Grande'; font-size:13pt; font-weight:400; font-style:normal;">
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'MS Shell Dlg 2'; font-size:8pt;">A Standard Multimeter in Current mode&lt;/span>&lt;/p>
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:8pt;">&lt;br />&lt;/p>&lt;/body>&lt;/html></description>
- <views>
-  <iconView>
-   <layers image="icon/Multimeter.fzp_3000a0bb3c7e62686cf4058091fddaca_1_icon.svg">
-    <layer layerId="icon"/>
-   </layers>
-  </iconView>
-  <schematicView>
-   <layers image="schematic/Multimeter.fzp_3000a0bb3c7e62686cf4058091fddaca_1_schematic.svg">
-    <layer layerId="schematic"/>
-   </layers>
-  </schematicView>
-  <pcbView>
-   <layers image="pcb/Multimeter.fzp_3000a0bb3c7e62686cf4058091fddaca_1_pcb.svg">
-    <layer layerId="copper0"/>
-    <layer layerId="silkscreen"/>
-    <layer layerId="copper1"/>
-   </layers>
-  </pcbView>
-  <breadboardView>
-   <layers image="breadboard/Multimeter.fzp_3000a0bb3c7e62686cf4058091fddaca_1_breadboard.svg">
-    <layer layerId="breadboard"/>
-   </layers>
-  </breadboardView>
- </views>
- <connectors>
-  <connector type="male" id="connector3" name="Positive">
-   <description>Positive Lead</description>
-   <views>
-    <breadboardView>
-     <p svgId="plus" layer="breadboard" terminalId="connector3terminal"/>
-    </breadboardView>
-    <schematicView>
-     <p svgId="plus" layer="schematic" terminalId="connector3terminal"/>
-    </schematicView>
-    <pcbView>
-     <p svgId="connector3pin" layer="copper0"/>
-     <p svgId="connector3pin" layer="copper1"/>
-    </pcbView>
-   </views>
-  </connector>
-  <connector type="male" id="connector4" name="Com">
-   <description>Common Lead</description>
-   <views>
-    <breadboardView>
-     <p svgId="minus" layer="breadboard" terminalId="connector4terminal"/>
-    </breadboardView>
-    <schematicView>
-     <p svgId="minus" layer="schematic" terminalId="connector4terminal"/>
-    </schematicView>
-    <pcbView>
-     <p svgId="connector4pin" layer="copper0"/>
-     <p svgId="connector4pin" layer="copper1"/>
-    </pcbView>
-   </views>
-  </connector>
- </connectors>
- <url>http://www.mikemitterer.at/</url>
+    <version>1</version>
+    <author>Mike Mitterer</author>
+    <title>Amperemeter</title>
+    <label>Amperemeter</label>
+    <date>Mi. Dez 25 2013</date>
+    <tags>
+        <tag>Ampmeter</tag>
+        <tag>Amperemeter</tag>
+        <tag>Multimeter</tag>
+        <tag>Measurment</tag>
+        <tag>Ohms</tag>
+        <tag>Volt</tag>
+    </tags>
+    <properties>
+        <property name="family">Multimeter</property>
+        <property name="layer"></property>
+        <property name="measure">Ampere</property>
+        <property name="part number"></property>
+    </properties>
+    <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+        &lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+        p, li { white-space: pre-wrap; }
+        &lt;/style>&lt;/head>&lt;body style=" font-family:'Lucida Grande'; font-size:13pt; font-weight:400;
+        font-style:normal;">
+        &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0;
+        text-indent:0px;">&lt;span style=" font-family:'MS Shell Dlg 2'; font-size:8pt;">A Standard Multimeter in
+        Current mode&lt;/span>&lt;/p>
+        &lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;
+        -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; font-size:8pt;">&lt;br />&lt;/p>&lt;/body>&lt;/html>
+    </description>
+    <views>
+        <iconView>
+            <layers image="icon/Multimeter.fzp_3000a0bb3c7e62686cf4058091fddaca_1_icon.svg">
+                <layer layerId="icon"/>
+            </layers>
+        </iconView>
+        <schematicView>
+            <layers image="schematic/Multimeter.fzp_3000a0bb3c7e62686cf4058091fddaca_1_schematic.svg">
+                <layer layerId="schematic"/>
+            </layers>
+        </schematicView>
+        <pcbView>
+            <layers image="pcb/Multimeter.fzp_3000a0bb3c7e62686cf4058091fddaca_1_pcb.svg">
+                <layer layerId="copper0"/>
+                <layer layerId="silkscreen"/>
+                <layer layerId="copper1"/>
+            </layers>
+        </pcbView>
+        <breadboardView>
+            <layers image="breadboard/Multimeter.fzp_3000a0bb3c7e62686cf4058091fddaca_1_breadboard.svg">
+                <layer layerId="breadboard"/>
+            </layers>
+        </breadboardView>
+    </views>
+    <connectors>
+        <connector type="male" id="connector3" name="Positive">
+            <description>Positive Lead</description>
+            <views>
+                <breadboardView>
+                    <p svgId="plus" layer="breadboard" terminalId="connector3terminal"/>
+                </breadboardView>
+                <schematicView>
+                    <p svgId="plus" layer="schematic" terminalId="connector3terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p svgId="connector3pin" layer="copper0"/>
+                    <p svgId="connector3pin" layer="copper1"/>
+                </pcbView>
+            </views>
+        </connector>
+        <connector type="male" id="connector4" name="Com">
+            <description>Common Lead</description>
+            <views>
+                <breadboardView>
+                    <p svgId="minus" layer="breadboard" terminalId="connector4terminal"/>
+                </breadboardView>
+                <schematicView>
+                    <p svgId="minus" layer="schematic" terminalId="connector4terminal"/>
+                </schematicView>
+                <pcbView>
+                    <p svgId="connector4pin" layer="copper0"/>
+                    <p svgId="connector4pin" layer="copper1"/>
+                </pcbView>
+            </views>
+        </connector>
+    </connectors>
+    <url>http://www.mikemitterer.at/</url>
 </module>
