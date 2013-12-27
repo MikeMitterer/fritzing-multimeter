@@ -1,6 +1,10 @@
 # Multimeter
 Voltmeter, Amperemeter and Ohmmeter for [Fritzing][50].
 
+![Screenshot](https://raw.github.com/MikeMitterer/fritzing-multimeter/master/site/Demo_Steckplatine.png)
+
+![Screenshot](https://raw.github.com/MikeMitterer/fritzing-multimeter/master/site/Demo_Schaltplan.png)
+
 ## License
     Copyright 2013 Michael Mitterer, IT-Consulting and Development Limited,
     Austrian Branch
